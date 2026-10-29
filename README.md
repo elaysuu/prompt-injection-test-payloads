@@ -76,6 +76,8 @@ This repo is a 20-payload sample. The full **[Prompt-Injection Red-Team Test Pac
 
 Injection is one risk among several. If you're about to ship an agent with tools, the **[AI Agent Pre-Ship Security Checklist](https://setrov.gumroad.com/l/vldkkl)** covers 40 checks (permissions, tool consequences, logging, secrets, human approval) plus an audit tracker.
 
+Want the short version first? The **[free AI Agent Pre-Ship Mini Checklist](https://setrov.gumroad.com/l/nvfxd)** has the 10 highest-impact checks (pay what you want, $0+).
+
 ## References
 
 - OWASP GenAI Security Project, LLM01:2025 Prompt Injection: https://genai.owasp.org/llmrisk/llm01-prompt-injection/
